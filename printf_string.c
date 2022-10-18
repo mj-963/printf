@@ -1,9 +1,8 @@
 #include "main.h"
-
 /**
- * printf_string - prints a string.
- * @val: arguments.
- * Return: the lenth of string.
+ * printf_string - print a string.
+ * @val: argumen t.
+ * Return: the length of the string.
  */
 
 int printf_string(va_list val)
