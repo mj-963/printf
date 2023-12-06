@@ -109,5 +109,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **MARCUS JACOB** - [mjportfoliomail@gmail.com](https://github.com/mj-963)
-* **RONI** - [roni]([https://github.com/Lordwill1](https://github.com/ronniiii-i)https://github.com/ronniiii-i)
+* **MARCUS JACOB** - [profile](https://github.com/mj-963)
+* **RONI** - [profile](https://github.com/ronniiii-i)
